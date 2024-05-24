@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework16</string>
+    <string name="text_view_joke_api">Joke Api</string>
+    <string name="button_new_joke">New Joke</string>
+    <string name="text_view_punchline">Punchline</string>
+    <string name="button_show_punchline">Show punchline</string>
+</resources>
